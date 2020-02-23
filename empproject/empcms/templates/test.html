@@ -1,0 +1,14 @@
+{% extends "display_employee.html" %}
+{% load cms_tags staticfiles %}
+
+{% block emp_add %}
+
+ <h1>Test</h1>
+<form method="POST">
+    {% csrf_token %}
+    {{ form.as_p }}
+    <input type="submit" value="save">
+</form>
+
+
+{% endblock emp_add %}
