@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="91eac671-04c1-4bd2-82a2-48511f56d759" name="Default Changelist" comment="" />
+    <list default="true" id="91eac671-04c1-4bd2-82a2-48511f56d759" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/empproject/empcms/templates/emp_delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/empproject/empcms/templates/emp_update.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/empproject/empcms/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/empproject/empcms/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/empproject/empcms/templates/display_employee.html" beforeDir="false" afterPath="$PROJECT_DIR$/empproject/empcms/templates/display_employee.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/empproject/empcms/templates/emp_add.html" beforeDir="false" afterPath="$PROJECT_DIR$/empproject/empcms/templates/emp_add.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/empproject/empcms/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/empproject/empcms/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/empproject/empcms/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/empproject/empcms/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/empproject/empcmssite/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/empproject/empcmssite/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/empproject/empcmssite/templates/registration/password_change_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/empproject/empcmssite/templates/registration/password_change_form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/empproject/project.db" beforeDir="false" afterPath="$PROJECT_DIR$/empproject/project.db" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +28,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1Y9Phv5XY2mjp6RGMnLtMVilu2V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,6 +42,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/empproject/user_login/templates" />
   </component>
   <component name="RecentsManager">
@@ -61,10 +79,10 @@
       <screen x="0" y="27" width="1366" height="741" />
     </state>
     <state x="394" y="201" width="568" height="390" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1366.741@0.27.1366.741" timestamp="1582449316359" />
-    <state x="321" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1582440895461">
+    <state x="321" y="224" key="com.intellij.ide.util.TipDialog" timestamp="1582532034789">
       <screen x="0" y="27" width="1366" height="741" />
     </state>
-    <state x="321" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1582440895461" />
+    <state x="321" y="224" key="com.intellij.ide.util.TipDialog/0.27.1366.741@0.27.1366.741" timestamp="1582532034789" />
     <state x="372" y="224" key="com.intellij.ide.util.TipDialog/67.27.1299.741@67.27.1299.741" timestamp="1582436073514" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1582450490657">
       <screen x="0" y="27" width="1366" height="741" />

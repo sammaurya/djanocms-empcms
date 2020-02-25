@@ -1,0 +1,25 @@
+
+
+{% extends "base.html" %}
+{% load cms_tags staticfiles %}
+<link href="{% static 'css/login.css' %}" rel="stylesheet">
+  {% block content %}
+    <div class="container mt-5">
+        <div class="row">
+            <div class="col-sm-10 col-md-4 col-lg-4 mx-auto">
+                {% load crispy_forms_tags %}
+                <h3 class="login-heading mb-4">Delete Employee</h3>
+
+                 {% load crispy_forms_tags %}
+				<form action="" method="POST">
+                    {% csrf_token %}
+                    <p>Are you sure want to delete employee "{{ object.emp_id }}"?</p>
+					<div class="modal-footer">
+						<input type="button" class="btn btn-danger" value="Cancel" onclick="window.history.back();">
+						<input type="submit" value='confirm' class="btn btn-success">
+					</div>
+				</form>
+	    	</div>
+        </div>
+    </div>
+{% endblock content %}
